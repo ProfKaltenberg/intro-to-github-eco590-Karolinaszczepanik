@@ -1,6 +1,19 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sxWkgh75)
 
-I have read and reviewed the README file. I also added what I learned, what I am confused about, and my general thoughts. I added my reflection file as README - assignment 1.md
+I have read and reviewed the README file. I also added what I learned, what I am confused about, my general thoughts, and also created and edited my profile. I added my reflection file as README - assignment 1.md
+
+### What I Learned from README file 
+- How to create and manage repositories on GitHub   
+- How to make commits, push changes, and open pull requests  
+- That GitHub isn’t just for coding and that it can also showcase my work and learning  
+
+### What I’m Still Confused About
+- The difference between Git and GitHub in practice  
+- When exactly to use branches vs committing directly to main  
+- GitHub is new to me, so I still need some time and practice to understand it better
+
+### My Thoughts
+I hope this course will help me feel more comfortable with GitHub. I’m excited to continue practicing any additional skills and apply them to both coding and creative projects!
 
 # :wave: The Basics of GitHub 
 
@@ -35,19 +48,6 @@ To learn more about cloning, read ["Cloning a Repository"](https://docs.github.c
 
 Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you’ll get used to it 🙂
 
-
-## What I Learned 
-- How to create and manage repositories on GitHub   
-- How to make commits, push changes, and open pull requests  
-- That GitHub isn’t just for coding and that it can also showcase my work and learning  
-
-## What I’m Still Confused About
-- The difference between Git and GitHub in practice  
-- When exactly to use branches vs committing directly to main  
-- GitHub is new to me, so I still need some time and practice to understand it better
-
-## My Thoughts
-This course will help me feel much more comfortable with GitHub. I’m excited to continue practicing any additional skills and apply them to both coding and creative projects in the future!
 
 
 ### Repositories 
@@ -106,7 +106,7 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you intereact with GitHub the more tailored your Explore view will be. 
 
-#GIF
+### GIF
 this is all new to me. I hope I am doing it correctly. Here is the GIF:
 
 <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhsc3JseW5nNnNsMzd3MGFoMWo5dGpwM2EzbzViMGc4cm01YmMwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IRFQYGCokErS0/giphy.gif">
