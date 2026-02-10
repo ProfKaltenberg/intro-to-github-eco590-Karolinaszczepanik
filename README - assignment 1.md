@@ -1,4 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sxWkgh75)
+
+I have read and reviewed the README file. I also added what I learned, what I am confused about, and my general thoughts. I added my reflection file as README - assignment 1.md
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
@@ -32,7 +35,20 @@ To learn more about cloning, read ["Cloning a Repository"](https://docs.github.c
 
 Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you’ll get used to it 🙂
 
-## 💻 GitHub terms to know 
+
+## What I Learned 
+- How to create and manage repositories on GitHub   
+- How to make commits, push changes, and open pull requests  
+- That GitHub isn’t just for coding and that it can also showcase my work and learning  
+
+## What I’m Still Confused About
+- The difference between Git and GitHub in practice  
+- When exactly to use branches vs committing directly to main  
+- GitHub is new to me, so I still need some time and practice to understand it better
+
+## My Thoughts
+This course will help me feel much more comfortable with GitHub. I’m excited to continue practicing any additional skills and apply them to both coding and creative projects in the future!
+
 
 ### Repositories 
 We mentioned repositories already, they are where your project work happens, but let’s talk a bit more about the details of them! As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you’re logged in to see it!
@@ -90,6 +106,12 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you intereact with GitHub the more tailored your Explore view will be. 
 
+#GIF
+this is all new to me. I hope I am doing it correctly. Here is the GIF:
+
+<img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhsc3JseW5nNnNsMzd3MGFoMWo5dGpwM2EzbzViMGc4cm01YmMwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IRFQYGCokErS0/giphy.gif">
+
+
 ## 📝 Optional next steps 
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
@@ -97,6 +119,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 * [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
+
+
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
